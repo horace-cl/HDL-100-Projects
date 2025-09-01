@@ -1,4 +1,4 @@
-# AND Gate
+# OR Gate
 
 
 - Vivado : 2023.2

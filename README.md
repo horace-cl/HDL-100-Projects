@@ -9,8 +9,11 @@ Each project is self-contained unless otherwise stated Test-benches will be adde
 ### Gates
 These beginner projects will serve me to explore TCL scripts and waveform storing. I will be storing `Vivado` projects and waveforms can be seen in later with `gtkwave`. 
 
- - AND
+ - [AND](Step1_Combinatorial/GATES/AND)
+ - [OR](Step1_Combinatorial/GATES/OR)
  
+
+
 ### Multiplexers
 
 ### Demultiplexers
