@@ -11,10 +11,15 @@ These beginner projects will serve me to explore TCL scripts and waveform storin
 
  1. [AND](Step1_Combinatorial/GATES/AND)
  2. [OR](Step1_Combinatorial/GATES/OR)
+
+ ### Multiplexers
+ Probably multiplexers are simple enough to be created where needed. When simple MUX projects are creates, I will explore other tools and ways to work in batch mode.
+
+ 1. [4TO1](Step1_Combinatorial/MUX/4TO1)
  
 ## Stage 2: Sequential Logic
 
 ### Clock Divider
-Here we use sequential counters to create slower clock domains from a fast source clock. `generic` ports, and `time` types are introduced
+Here we use sequential counters to create slower clock domains from a fast source clock. `generic` ports, and `time` types are introduced.
  1. [SIMPLE CLOCK DIVIDER](Step2_Sequential/CLOCK_DIVIDER/SIMPLE/)
 
