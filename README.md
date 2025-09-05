@@ -23,3 +23,10 @@ These beginner projects will serve me to explore TCL scripts and waveform storin
 Here we use sequential counters to create slower clock domains from a fast source clock. `generic` ports, and `time` types are introduced.
  1. [SIMPLE CLOCK DIVIDER](Step2_Sequential/CLOCK_DIVIDER/SIMPLE/)
 
+
+## Step 3: Finite State Machines
+
+### FSM Moore
+In this section we implement Finite State Machines (FSMs) using the Moore architecture, where outputs are determined solely by the current state.
+
+1. [TRAFFIC LIGHTS](Step3_StateMachines/FSM_MOORE/SIMPLE_TRAFFIC_LIGHT)
